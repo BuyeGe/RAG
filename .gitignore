@@ -1,0 +1,9 @@
+# 忽略 Python 的虚拟环境和缓存文件
+.venv/
+__pycache__/
+
+# 忽略本地生成的向量数据库
+chroma_db/
+
+# 忽略 PyCharm 的本地配置文件
+.idea/
